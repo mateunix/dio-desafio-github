@@ -1,0 +1,20 @@
+# Instalando o Git no Open Suse
+
+sudo zypper in git
+
+#Alguns comandos do Git
+
+git init (inicia o git no diretório)
+
+git add (torna as modificações unstaged para staged)
+
+git status (mostra o status do diretório/modificações)
+
+git commit (confirma as modifições)
+
+git push (envia os arquivos para o servidor)
+
+git pull (envia os arquivos do servidor para a maquina local)
+
+git clone (copia o repositório para a máquina local)
+
